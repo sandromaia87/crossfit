@@ -1,0 +1,34 @@
++ Cria um email e senha
+	- Informa Telefon
+	- Informa whatsapp
+	- Informa email secundario
+	- Informa endereco
+	- Informa endereco de cobranca
+	- CPF/CNPJ
+	- Nome contato
+	- Apelido
+
++ Escolhe um tipo de conta antes de criar cada evento informando planos e recursos 
+
++ Cria locais (posteriormente vinculados ao evento e podendo ser reutilizado)
+	- Apelido do local
+	- Endereço completo
+
++ Cria o evento
+	- Informa as datas do evento
+	- Informa as datas de fechamento de inscrição e check-in
+	- Informa os lotes, valores dos lotes e datas de validade dos lotes
+	- Vincula o local do evento
+  
++ Cria/vincula categorias(níveis)
+	- Utiliza categorias predefinidas e as vincula ao evento ou 
+	- Cria suas próprias categorias informando:
+		* Nome da categoria
+		* quantidades de atletas
+		* gênero
+  
++ Cria os wods informando
+	- Tipo do wods ( fortime / amrap / Pr )
+	- Descrição do wod
+	- Tempo do wod
+
