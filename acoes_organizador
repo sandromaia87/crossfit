@@ -26,6 +26,7 @@
 		* Nome da categoria
 		* quantidades de atletas
 		* gênero
+	- Informa o número de vagas desta categoria	
   
 + Cria os wods informando
 	- Tipo do wods ( fortime / amrap / Pr )
