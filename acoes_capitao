@@ -1,0 +1,41 @@
++ Cria um email e senha
+	- Informa Telefone
+	- Informa whatsapp
+	- Informa email secundario
+	- Informa endereco
+	- Informa endereco de cobranca
+	- CPF
+	- Nome completo
+	- Apelido
+	- tamanho de camisa
+	
++ Logado ele(a) poderá solicitar por ticket a criação do registro do seu box/academia/gym para outros capitães utilizarem nas inscrições
+
++ Logado ele(a) escolhe o campeonato disponível no filtro ou vai diretamente pelo link do campeonato
+
++ Ná página de inscrição, 
+	já com as categorias listadas e verificadas se possuem vaga
+	o usuário informa se ele fará parte do time e 
+	realiza o pagamento.
+
++ Com o pagamento aprovado,
+	O capitão pode realizar a inscricão dos atletas restantes (caso seja necessário, de acordo com a quantidade de atletas na categoria inscrita)
+	O capitão da inscrição poderá criar novos atletas para vincula los ao  time
+		- cpf
+		- Apelido
+		- email
+		- whatsapp
+		- tamanho de camisa
+	Informar box/academia/gym  
+	Com o time completo, o capitão poderá marcar a opção de dados finalizados, 
+	liberando assim o registro do time para a organização do evento.
+
+
+No dia do evento
+	Através da conta logada, o capitão poderá solicitar recursos de revisão de resultado informando
+		- Qual wod deveria ser revisado
+		- qual possivel erro, ocorreu
+	Poderá verificar a resposta do recurso atraves do mesmo painel
+	Poderá ver as informações da timeline exclusivas do seu time, contendo horarios de aquecimento e prova
+	
+	
