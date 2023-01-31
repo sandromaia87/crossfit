@@ -27,15 +27,22 @@
 		- whatsapp
 		- tamanho de camisa
 	Informar box/academia/gym  
+	Informar nome do time
 	Com o time completo, o capitão poderá marcar a opção de dados finalizados, 
-	liberando assim o registro do time para a organização do evento.
+	liberando assim o registro do time para a organização do evento, 
+	somente alterando as informações através de contato com a organização
 
-
-No dia do evento
++ No dia do evento
 	Através da conta logada, o capitão poderá solicitar recursos de revisão de resultado informando
 		- Qual wod deveria ser revisado
-		- qual possivel erro, ocorreu
+		- Descrição do erro
 	Poderá verificar a resposta do recurso atraves do mesmo painel
-	Poderá ver as informações da timeline exclusivas do seu time, contendo horarios de aquecimento e prova
+	Poderá ver as informações da timeline exclusivas do seu time, 
+		contendo horários de aquecimento e entrada na arena
+		raia que deverá se posicionar
+	Terá acesso aos wods(provas) do evento
+	Terá acesso as informações de posição do seu time no evento (utilizado para versão FREE que não terá SCOREBOARD COMPLETO disponivel)
+	
+	
 	
 	
