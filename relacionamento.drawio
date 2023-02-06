@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T18:32:21.698Z" agent="5.0 (Windows)" etag="QKq9XNbwhBd8an0MtsWk" version="20.8.15" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-06T18:32:46.568Z" agent="5.0 (Windows)" etag="bqksQ7N94Vby0-QQXP03" version="20.8.15" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="DB - ORGANIZER">
     <mxGraphModel dx="1467" dy="723" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
@@ -1179,7 +1179,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qtbstviZj00tf-TGHZco-11" value="Numparticipants" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeWidth=3;fontSize=20;" vertex="1" parent="qtbstviZj00tf-TGHZco-9">
+        <mxCell id="qtbstviZj00tf-TGHZco-11" value="NumParticipants" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeWidth=3;fontSize=20;" vertex="1" parent="qtbstviZj00tf-TGHZco-9">
           <mxGeometry x="30" width="170" height="30" as="geometry">
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
